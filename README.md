@@ -10,3 +10,5 @@ npm run dev
 ```
 
 GitHub Pages is deployed automatically from the `main` branch.
+
+Deployment configured with GitHub Actions.
